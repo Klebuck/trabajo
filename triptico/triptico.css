@@ -1,0 +1,88 @@
+.recuadroblanco{
+background-color: white;
+border: 0.5px solid black;
+
+    width: 650px;
+	height: 400px;
+	
+	}
+
+
+
+
+
+.parteamarilla1{
+
+	background-color: #FEC107;
+	border: 0.1px solid black;
+	border-top: none;
+	width: 650px;
+	height: 25px;
+	text-align: center;
+
+
+
+}
+
+
+.parteamarilla2{
+
+	background-color: #FEC107;
+	border: 0.1px solid black;
+	border-bottom: none;
+	width: 650px;
+	height: 25px;
+	position: absolute;
+    top: 383px;
+}
+
+.recuadro1{
+	float: left;
+	height: 340px;
+	width: 200px;
+	border-bottom: none;
+	border-top: none;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	display: inline-block;
+	border: 1px solid black;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	text-align: center;
+	
+	
+}
+
+.recuadro2{
+	float: left;
+	text-align: center;
+	height: 340px;
+	width: 220px;
+	border-bottom: none;
+	border-top: none;
+	border-right: none;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	display: inline-block;
+	border: 1px solid black;
+	border-top: none;
+	text-align: center;
+	
+	
+}
+
+.recuadro3{
+
+    float: left;
+	text-align: center;
+	height: 340px;
+	width: 220px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	display: inline-block;
+
+	
+	
+	
+}

@@ -1,0 +1,84 @@
+h1{
+	margin: 10px;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+hr{
+	margin: 10px;
+	width: 95px;
+	margin-bottom: 10px;
+	height: 2px;
+	background: black;
+
+}
+
+
+img{
+	width: 30%;
+	margin: 1%;
+	float:left;
+}
+
+.foto{
+	position: relative;
+}
+.divtexto{
+	position: absolute;
+	top:20px;
+	z-index: 5;
+}
+.fototexto{
+	top: 170px;
+	left: 330px;
+	position: relative;
+	display: inline-block;
+}
+
+.fototexto2{
+
+	top: 170px;
+	left: 760px;
+	color: white;
+	position: relative;
+	display: inline-block;
+}
+
+.fototexto3{
+
+	top: 170px;
+	left: 1190px;
+	position: relative;
+	display: inline-block;
+}
+
+.fototexto4{
+
+	top: 420px;
+	left: 330px;
+	position: relative;
+	display: inline-block;
+}
+
+.fototexto5{
+    top: 420px;
+	left: 760px;
+	color: white;
+	position: relative;
+	display: inline-block;
+
+
+}
+
+.fototexto6{
+
+	top: 420px;
+	left: 1190px;
+	position: relative;
+	display: inline-block;
+}
+
+.frank6{
+	width: 400px;
+	height: 225px;
+}

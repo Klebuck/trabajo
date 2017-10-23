@@ -1,0 +1,29 @@
+.cuadroazul{
+background-color: blue;
+ width: 350px;
+ height: 350px;
+ position: relative;
+  
+}
+
+.cuadroverde {
+background-color: green;
+width: 190px;
+height: 190px;
+position: absolute;
+top: 75px;
+left: 75px;
+
+}
+
+.cuadronegro{
+background-color: black;
+width: 75px;
+height: 75px;
+position: absolute;
+top: 0px;
+left: 0px;
+
+
+
+}

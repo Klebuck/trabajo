@@ -1,0 +1,162 @@
+.barradeespacio{ /*Barra espaciadora ploma de arriba*/
+
+	width: 950px; /*largo*/
+	height: 50px; /*ancho*/
+	background-color: #EFEFEF; /*color de fondo*/
+	margin-top: 5px; /*margen de arriba*/
+	margin-left: 30px; /*margen de la izquierda*/
+	border-radius: 5px; /*redondeo de las puntas de la caja*/
+	display: inline-block; /*lo convierte en una caja movible dentro de mi documento*/
+
+}
+
+.barradeespacio input{ /*Texto dentro de mi caja de espacio*/
+	font-family: 'Francois One', sans-serif; /*tipo de tipografia*/
+	border: none; /*sin borde*/
+	font-size: 25px; /*tamaño de la tipografia*/
+	background-color: transparent; /*sin fondo*/
+	margin-left: 70px; /*margen de la izquierda*/
+	padding-left: 70px;
+
+}
+/*.h1{
+	margin: 15px;
+	font-family: 'Francois One', sans-serif;
+}*/
+
+
+.logo{
+	margin-top: 5px;
+	margin-left: 40px;
+	display: inline-block;
+}
+
+
+
+
+i.fa.fa-pinterest{
+	color: #B60E21;
+	font-size: 50px;
+}
+
+.iconos{
+
+	margin-top: 15px;
+	margin-left: 10px;
+	color: #B3B3BA;
+	font-size: 28px;
+	display: inline-block;
+
+}
+
+.iconos i{
+	padding: 0 25px;
+}
+
+
+.lupa{ /*margen de la lupa*/
+
+	margin-top: 15px;
+	margin-left: 30px;
+	
+}
+
+.fa-search{ /*icono lupa*/
+	color: black;
+	font-size: 50px;
+	display: inline-block;
+
+
+}
+.fila1{
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	width: 100%;
+}
+
+.fila2{
+	clear: both;
+	overflow: hidden;
+	width: 100%;
+}
+
+.cabecera{
+	position: fixed;
+	background-color: white;
+	top:0px;
+	right: 0px;
+	left: 0px;
+
+}
+
+
+.imagenes{
+	height: auto;
+	/*padding-top: {}  */
+}
+
+p{
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: 5px;	
+}
+
+.harrygeneral{
+	width: 150px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 30px 0 30px 0;
+
+}
+.Harry1{
+	background-color: #021B2F;
+}
+
+.Harry2{
+	background-color: #394446;
+}
+
+.Harry3{
+	background-color: #646462;
+}
+
+.Harry4{
+	background-color: #292218;
+}
+
+.Harry5{
+	background-color: #765A5F;
+}
+
+.Harry6{
+	background-color: #483939;
+}
+
+
+.Harry7{
+	background-color: #A65514;
+}
+
+.Harry8{
+	background-color: #5D2433;
+}
+
+
+.foto1{
+	display: inline-block;
+	border-radius:5px;
+
+	
+}
+.foto2{
+	display: inline-block;
+
+	
+}
+.foto3{
+	display: inline-block;
+	
+}
